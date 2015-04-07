@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1428405109 source:e:\perso\projet\priorityqueue\priorityqueue\binaryheap.c
+	"BinaryHeap.h"
+	<stdio.h>
+
+1428404809 e:\perso\projet\priorityqueue\priorityqueue\binaryheap.h
+
+1428405185 source:e:\perso\projet\priorityqueue\priorityqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BinaryHeap.h"
+
