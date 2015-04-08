@@ -6,5 +6,10 @@
 int main()
 {
     TestPrintHeap();
+
+    TestHeapInsert();
+
+    TestHeapGetMin();
+
     return 0;
 }
