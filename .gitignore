@@ -1,2 +1,4 @@
 PriorityQueue/bin/*
 PriorityQueue/obj/*
+*.o
+main

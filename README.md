@@ -1,5 +1,2 @@
 # PriorityQueue
-Simple priority queue
-
-First :
-Binary Heap using int (could be another type)
+Simple priority queue based on a binary heap

@@ -23,7 +23,6 @@ typedef struct {
 } Heap_t;
 
 void InitHeap(Heap_t * heap);
-Heap_state_t GetHeapState(const Heap_t * heap);
 
 Heap_state_t HeapInsert(Heap_t * heap, unsigned int data);
 Heap_state_t HeapGetMin(Heap_t * heap, unsigned int *data);
